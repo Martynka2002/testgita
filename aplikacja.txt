@@ -1,9 +1,9 @@
-aplikacja do logowania sie!!
-nowa zmiana
-haslo
-ala ma kota
-kot ma ale 
+public void logowanie() {
+system.out.printIn("podaj mail");
+system.out.printIn("podaj haslo");
+system.out.printIn("zaloguj");
 
-
-logowanie2
-zaloguj sie do kionta
+public void logowanieGoogle() {
+system.out.printIn("podaj mail");
+system.out.printIn("podaj haslo");
+system.out.printIn("zaloguj");
