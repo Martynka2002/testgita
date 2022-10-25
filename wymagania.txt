@@ -1,2 +1,4 @@
 wymagania do azplikacjii
 dodana zmiana
+
+linia do wycofania 
