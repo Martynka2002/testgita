@@ -12,3 +12,8 @@ public void logowaniewindows) {
 system.out.printIn("podaj mail");
 system.out.printIn("podaj haslo");
 system.out.printIn("zaloguj");
+
+
+
+przypomnienie hasla{
+aby zresetowac haslo kliknij na przycisk}
